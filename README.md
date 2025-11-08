@@ -19,16 +19,19 @@ It demonstrates essential e-commerce functionality like product listing, cart ma
 ## 🖼️ Screenshots
 
 ### 🏠 Home Page – Product Listing
-![Product Listing](./assets/screenshots/Screenshot_2025-11-08_111131.png)
+<img width="1919" height="1079" alt="Screenshot 2025-11-08 111131" src="https://github.com/user-attachments/assets/48326ea9-a9a1-4082-b397-5b9931622c9e" />
+
 
 ### 🛒 Shopping Cart
-![Shopping Cart](./assets/screenshots/Screenshot_2025-11-08_111145.png)
+<img width="1919" height="1079" alt="Screenshot 2025-11-08 111145" src="https://github.com/user-attachments/assets/2cf1dedf-ab12-4801-9c54-407c59984224" />
+
 
 ### 💳 Checkout Page
-![Checkout Page](./assets/screenshots/Screenshot_2025-11-08_111159.png)
+<img width="1919" height="1078" alt="Screenshot 2025-11-08 111159" src="https://github.com/user-attachments/assets/517e535e-7161-4e4c-83cb-271771b1cad0" />
+
 
 ### ✅ Order Confirmation
-![Order Confirmation](./assets/screenshots/Screenshot_2025-11-08_111211.png)
+<img width="1919" height="1079" alt="Screenshot 2025-11-08 111211" src="https://github.com/user-attachments/assets/d63f255f-f9fb-4bfb-9d9d-9e81a6dd463b" />
 
 ---
 
